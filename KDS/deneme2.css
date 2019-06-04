@@ -1,0 +1,275 @@
+#container{
+	width:100%;
+	height:auto;
+	background-color:#c1ffc1;
+}
+
+#elin{
+	width:14%;
+	height:1550px;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#7ccd7c;
+	float:left;
+	border: 3px solid #006400;
+	
+}
+
+#ustkisim{
+	width:100%;
+	height:100px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:15px;
+	font-style: italic;
+	font-weight: normal;
+	background-color:#7ccd7c;
+	padding-top:10px;
+
+}
+
+.foto{
+	width:88%;
+	height:130px;
+	padding-top:17px;
+	padding-left:7px;
+	padding-right:15px;
+	background-color:#c1ffc1;
+	border-top: 2px solid #006400;
+	border-bottom: 2px solid #006400;
+	margin:auto;
+	padding-bottom:17px;
+}
+.yonetici{
+
+
+}
+
+#menu{
+	width:100%;
+	height:600px;
+	background-color:#7ccd7c;
+	padding-top:10px;
+
+
+	
+}
+
+
+#menu ul li{
+	width:100%;
+	height:20px;
+	list-style-type:none;
+	color:#006400;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+/*
+#menu ul li:hover{
+	background-color:#baadad;
+}
+*/
+
+
+#menu ul li a{
+	text-decoration:none;
+	color:#008b00;
+}
+
+#menu ul li a:hover{
+	color:#c10100;
+}
+
+#menuegitim{
+	width:100%;
+	height:600px;
+	background-color:#7ccd7c;
+	padding-top:75px;
+	float:left;
+	position:center;
+	margin-right:20px;
+
+	
+}
+
+
+#menuegitim ul li{
+	width:100%;
+	height:20px;
+	list-style-type:none;
+	color:#006400;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+/*
+#menuegitim ul li:hover{
+	background-color:#baadad;
+}
+*/
+
+
+#menuegitim ul li a{
+	text-decoration:none;
+	color:#008b00;
+}
+
+#menuegitim ul li a:hover{
+	color:#c10100;
+}
+	
+
+#ilk{
+	width: 85%;
+	height: 1550px;
+	position:right;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #c1ffc1;
+	float:right;
+}
+.kds{
+	width: 95%;
+	height: 100px;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: # 666666;
+	padding-left:0px;
+	padding-top:4px;
+	
+}
+.image{
+	float:left;
+	margin-right:105px;
+
+}
+h2{
+	padding-top:20px;
+	margin-left:20px;
+}
+.ustyazi{
+	padding-left:10px;
+	font-size:10px;
+}
+
+.seze{
+	width: 15%;
+	height: 100px;
+	margin-top: -86px;
+	margin-left: auto;
+	margin-right: 20px;
+	background-color: # 666666;
+	padding-left:80px;
+	position:right;
+	float:right;
+	margin-bottom:50px;
+}
+
+.seze img{
+	width:20px;
+	height:20px;
+	float:right;
+	margin-right:10px;
+	margin-top:10px;
+}
+
+.cizgi{
+	border: 1px solid #006400;
+}
+
+.tablo{
+	border: 3px solid #006400;
+	text-align: center;
+	margin-left: 30px;
+	border-collapse:collapse;
+	border-spacing:10px;
+
+}
+th, td {
+    padding: 15px;
+}
+
+#farkligrafik{
+	width:70%;
+	height:700px;
+	padding-bottom:0px;
+	padding-top:0px;
+	padding-left:180px;
+}
+#tablo{
+	width:80%;
+	height:500px;
+	padding-bottom:0px;
+	padding-top:0px;
+	padding-left:155px;
+	color:black;
+		
+}
+.tabloyazisi{
+	padding-left:245px;
+	font-size:25px;
+	color:black;
+	
+}
+
+.tabloyazisigelir{
+	padding-left:220px;
+	font-size:25px;
+	color:black;
+	
+}
+
+.tabloyazisiegitim{
+	padding-left:2px;
+	font-size:25px;
+	color:black;
+	
+}
+.tabloyazisimevcut{
+	padding-right:145px;
+	font-size:25px;
+	color:black;
+	
+}
+.tabloyazisikultur{
+	padding-left:130px;
+	font-size:25px;
+	color:black;
+	
+}
+.tabloyazisicocuk{
+	padding-left:140px;
+	font-size:25px;
+	color:black;
+	
+}
+.tabloyazisiyenievli{
+	padding-left:210px;
+	font-size:25px;
+	color:black;
+	
+}
+.tabloyazisicalisan{
+	padding-left:210px;
+	font-size:25px;
+	color:black;
+	
+}
+.tabloyazisiguven{
+	padding-left:95px;
+	font-size:25px;
+	color:black;
+	
+}
+.tabloyazisimevcutgiden{
+	padding-left:65px;
+	font-size:25px;
+	color:black;
+	
+}
+.baslik{
+	margin-left:20px;
+}
